@@ -1,0 +1,1 @@
+let fname = "John"; let lname = "Doe"; let age = 25; age = 25;
